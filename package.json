@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "\"node_test\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nikolay",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
